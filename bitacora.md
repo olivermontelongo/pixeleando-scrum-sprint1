@@ -66,3 +66,27 @@ A continuación se presenta una lista de los cambios aplicados como parte de la 
 - [x] Subir commits con comentarios claros al repositorio.
 - [ ] Mejorar visualización móvil (pendiente para último sprint).
 - [ ] Ajustar navegación avanzada para versión final.
+
+---
+
+## 👥 2.1. Retrospectiva del equipo (proyectos individuales)
+
+Aunque cada integrante desarrolla un proyecto independiente, durante la reunión se revisaron los avances de todos para compartir mejoras y reforzar la retroalimentación cruzada.
+
+### **Cinthia Urias**
+- Implementó ajustes en usabilidad dentro de su sistema.  
+- Realizó mejoras visuales en vistas móviles.  
+- Corrigió validaciones internas y reorganizó parte del flujo del usuario.  
+- Actualizó su repositorio con commits enfocados en optimización y pruebas.
+
+### **Josué Vicencio**
+- Refinó la estructura de su proyecto, corrigiendo errores y mejorando la organización del código.  
+- Añadió documentación complementaria para facilitar futuras revisiones.  
+- Implementó mejoras funcionales en componentes clave.  
+- Subió correcciones al repositorio con mensajes claros y descriptivos.
+
+### **Oliver Montelongo**
+- Incorporó los ajustes solicitados por la asesora relacionados con navegación y coherencia visual.  
+- Reorganizó componentes y mejoró textos dentro del proyecto.  
+- Añadió comentarios en JSX para mejorar la legibilidad del código.  
+- Actualizó el README y la documentación complementaria.
